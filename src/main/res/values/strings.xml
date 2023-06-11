@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Electric Bill</string>
+
+    <string name="col1">Block</string>
+    <string name="col2">Charges (sen/kWh)</string>
+    <string name="row1block">200 kWh</string>
+    <string name="row1charges">RM 21.80</string>
+    <string name="row2block">300 kWh</string>
+    <string name="row2charges">RM 33.40</string>
+    <string name="row3block">600 kWh</string>
+    <string name="row3charges">RM 51.60</string>
+    <string name="row4block">900 kWh</string>
+    <string name="row4charges">RM 54.60</string>
+
+    <string name="hint_electrical">Number of electrical (kWh)</string>
+    <string name="hint_rebate">Rebate percentage (%)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_clear">Clear</string>
+
+    <string name="search">Search</string>
+    <string name="about">About</string>
+
+    <string name="copyright">Copyright &#169; 2023 Aiman Firdaus</string>
+
+    <string name="detail">Details Information</string>
+    <string name="name">Name  : Mohammad Aiman Firdaus Bin Zamri</string>
+    <string name="studid">Student ID  : 2021127777</string>
+    <string name="Prode">Programme Code  : CS240</string>
+    <string name="group">Group  : RCS2405B</string>
+
+    <string name="desc">Description</string>
+    <string name="cal">This calculator is a simple Android application that allows users to perform calculations based on electrical inputs and rebates.</string>
+    <string name="visit">For further details:</string>
+    <string name="link">visit here</string>
+
+</resources>
